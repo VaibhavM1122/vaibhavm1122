@@ -43,11 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaibhavM1122&show_icons=true&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
